@@ -80,7 +80,7 @@ By the end of the challenge, learners can confidently handle **end-to-end Databr
 | ✅ D9 | SQL Analytics | Ran SQL queries on Databricks and created interactive reports | [LinkedIn Post](https://www.linkedin.com/posts/pranav-gupta-264438228_databricks-sqlanalytics-dataengineering-activity-7418345230783094784-kQCc?utm_source=share&utm_medium=member_desktop&rcm=ACoAADkEWmwBofIhY5MOdN9CcXMsf4mMad2Mbbk) |
 | ✅ D10 | Performance Optimization | Applied caching, partitioning, and optimization techniques | [LinkedIn Post](https://www.linkedin.com/posts/pranav-gupta-264438228_databrickswithidc-sqlwithidc-performanceoptimization-activity-7419042536515727361-86C1?utm_source=share&utm_medium=member_desktop&rcm=ACoAADkEWmwBofIhY5MOdN9CcXMsf4mMad2Mbbk) |
 | ✅ D11 | Stats & ML Prep | Performed statistical analysis and prepared datasets for ML | [LinkedIn Post](https://www.linkedin.com/posts/pranav-gupta-264438228_databrickswithidc-sqlwithidc-statistics-activity-7419050133411049472-IDuJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAADkEWmwBofIhY5MOdN9CcXMsf4mMad2Mbbk) |
-| 🔄 D12 | MLflow Basics | Tracked machine learning experiments and models using MLflow | [LinkedIn Post](******) |
+| ✅ D12 | MLflow Basics | Tracked machine learning experiments and models using MLflow | [LinkedIn Post](https://www.linkedin.com/posts/pranav-gupta-264438228_databrickswithidc-mlflow-machinelearning-activity-7419461160644657152-zh_N?utm_source=share&utm_medium=member_desktop&rcm=ACoAADkEWmwBofIhY5MOdN9CcXMsf4mMad2Mbbk) |
 | 🔄 D13 | Model Comparison | Compared model performances and evaluated metrics | [LinkedIn Post](******) |
 | 🔄 D14 | AI & Generative Analytics | Built AI pipelines and experimented with generative AI models | [LinkedIn Post](******) |
 
