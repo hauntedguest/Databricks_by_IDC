@@ -82,7 +82,7 @@ By the end of the challenge, learners can confidently handle **end-to-end Databr
 | ✅ D11 | Stats & ML Prep | Performed statistical analysis and prepared datasets for ML | [LinkedIn Post](https://www.linkedin.com/posts/pranav-gupta-264438228_databrickswithidc-sqlwithidc-statistics-activity-7419050133411049472-IDuJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAADkEWmwBofIhY5MOdN9CcXMsf4mMad2Mbbk) |
 | ✅ D12 | MLflow Basics | Tracked machine learning experiments and models using MLflow | [LinkedIn Post](https://www.linkedin.com/posts/pranav-gupta-264438228_databrickswithidc-mlflow-machinelearning-activity-7419461160644657152-zh_N?utm_source=share&utm_medium=member_desktop&rcm=ACoAADkEWmwBofIhY5MOdN9CcXMsf4mMad2Mbbk) |
 | ✅ D13 | Model Comparison | Compared model performances and evaluated metrics | [LinkedIn Post](https://www.linkedin.com/posts/pranav-gupta-264438228_databrickswithidc-mlflow-sparkml-activity-7419789914147401728-uWtr?utm_source=share&utm_medium=member_desktop&rcm=ACoAADkEWmwBofIhY5MOdN9CcXMsf4mMad2Mbbk) |
-| 🔄 D14 | AI & Generative Analytics | Built AI pipelines and experimented with generative AI models | [LinkedIn Post](******) |
+| ✅ D14 | AI & Generative Analytics | Built AI pipelines and experimented with generative AI models | [LinkedIn Post](https://www.linkedin.com/posts/pranav-gupta-264438228_databrickswithidc-aianalytics-genai-activity-7420355173987860480-X-sT?utm_source=share&utm_medium=member_desktop&rcm=ACoAADkEWmwBofIhY5MOdN9CcXMsf4mMad2Mbbk) |
 
 ---
 
